@@ -8,13 +8,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        title = "Tweets"
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-
 }
-

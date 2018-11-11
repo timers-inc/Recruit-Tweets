@@ -1,0 +1,4742 @@
+{
+  "statuses": [
+    {
+      "created_at": "Sun Nov 11 08:03:00 +0000 2018",
+      "id": 1061529713124888600,
+      "id_str": "1061529713124888576",
+      "text": "新型iPad Pro 11インチ 64GB Wi-Fiモデルが入荷！！\\n１点限りとなります。お求めの際はお早めに！\\n#Apple #iPadPro11 #AppleEvent #じゃんぱら #名古屋 #大須 https://t.co/KyQ28ZqviY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Apple",
+            "indices": [
+              58,
+              64
+            ]
+          },
+          {
+            "text": "iPadPro11",
+            "indices": [
+              65,
+              75
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              76,
+              87
+            ]
+          },
+          {
+            "text": "じゃんぱら",
+            "indices": [
+              88,
+              94
+            ]
+          },
+          {
+            "text": "名古屋",
+            "indices": [
+              95,
+              99
+            ]
+          },
+          {
+            "text": "大須",
+            "indices": [
+              100,
+              103
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1061525989425958900,
+            "id_str": "1061525989425958913",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrtMQ1-UUAEXDB-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrtMQ1-UUAEXDB-.jpg",
+            "url": "https://t.co/KyQ28ZqviY",
+            "display_url": "pic.twitter.com/KyQ28ZqviY",
+            "expanded_url": "https://twitter.com/janpara_oosu/status/1061529713124888576/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1061525989425958900,
+            "id_str": "1061525989425958913",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrtMQ1-UUAEXDB-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrtMQ1-UUAEXDB-.jpg",
+            "url": "https://t.co/KyQ28ZqviY",
+            "display_url": "pic.twitter.com/KyQ28ZqviY",
+            "expanded_url": "https://twitter.com/janpara_oosu/status/1061529713124888576/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1061526097878122500,
+            "id_str": "1061526097878122497",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrtMXJ_VAAEGKeq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrtMXJ_VAAEGKeq.jpg",
+            "url": "https://t.co/KyQ28ZqviY",
+            "display_url": "pic.twitter.com/KyQ28ZqviY",
+            "expanded_url": "https://twitter.com/janpara_oosu/status/1061529713124888576/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1091099024,
+        "id_str": "1091099024",
+        "name": "じゃんぱら名古屋大須店",
+        "screen_name": "janpara_oosu",
+        "location": "愛知県名古屋市中区大須3-23-17",
+        "description": "#名古屋 の電気街 #大須 のじゃんぱら 名古屋大須店。WinPC,パーツ,カメラ,iPhoneやタブレット多数取り揃えてます。 #iPhone修理 も行ってますよ※Twitter経由での商品のお取り置き、ご質問はお断りしております",
+        "url": "http://t.co/mywJsWl6Bd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/mywJsWl6Bd",
+                "expanded_url": "http://www.janpara.co.jp/shopinfo/shop/?shopcd=65",
+                "display_url": "janpara.co.jp/shopinfo/shop/…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1100,
+        "friends_count": 708,
+        "listed_count": 36,
+        "created_at": "Tue Jan 15 05:14:08 +0000 2013",
+        "favourites_count": 256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1608,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/692607597178781698/2aLehzPs_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/692607597178781698/2aLehzPs_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091099024/1451026043",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Sun Nov 11 03:56:10 +0000 2018",
+      "id": 1061467595436507100,
+      "id_str": "1061467595436507136",
+      "text": "【iPhone6 Plus対応在庫あります】\\nAmazonで大特価ガラスフィルムみつけちゃった❤\\n\\nhttps://t.co/wXNBgOpIRA\\n\\n#IPhone6Plus\\n#apple\\n#クーポン\\n#iPad2018… https://t.co/USIlY5X6iS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "IPhone6Plus",
+            "indices": [
+              75,
+              87
+            ]
+          },
+          {
+            "text": "apple",
+            "indices": [
+              88,
+              94
+            ]
+          },
+          {
+            "text": "クーポン",
+            "indices": [
+              95,
+              100
+            ]
+          },
+          {
+            "text": "iPad2018",
+            "indices": [
+              101,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wXNBgOpIRA",
+            "expanded_url": "https://amzn.to/2yMkwwd",
+            "display_url": "amzn.to/2yMkwwd",
+            "indices": [
+              50,
+              73
+            ]
+          },
+          {
+            "url": "https://t.co/USIlY5X6iS",
+            "expanded_url": "https://twitter.com/i/web/status/1061467595436507136",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 821044313035403300,
+        "id_str": "821044313035403264",
+        "name": "dress kariel",
+        "screen_name": "dress_kariel",
+        "location": "北海道",
+        "description": "ボーイズのママです",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 26,
+        "listed_count": 0,
+        "created_at": "Mon Jan 16 17:19:53 +0000 2017",
+        "favourites_count": 327,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 420,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1057522375682605058/I94ZK3du_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057522375682605058/I94ZK3du_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/821044313035403264/1484587842",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Sun Nov 11 03:52:49 +0000 2018",
+      "id": 1061466753287389200,
+      "id_str": "1061466753287389185",
+      "text": "【待っておりましたiPad Pro】\\niPad Pro11インチ用のガラスフィルムが、な~んと599円で販売されていた❤\\n\\nhttps://t.co/z4sp4guHNT\\n#クーポン\\n#iPadPro2018… https://t.co/zb1ie44260",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "クーポン",
+            "indices": [
+              86,
+              91
+            ]
+          },
+          {
+            "text": "iPadPro2018",
+            "indices": [
+              92,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z4sp4guHNT",
+            "expanded_url": "https://amzn.to/2zlnjfk",
+            "display_url": "amzn.to/2zlnjfk",
+            "indices": [
+              62,
+              85
+            ]
+          },
+          {
+            "url": "https://t.co/zb1ie44260",
+            "expanded_url": "https://twitter.com/i/web/status/1061466753287389185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 821044313035403300,
+        "id_str": "821044313035403264",
+        "name": "dress kariel",
+        "screen_name": "dress_kariel",
+        "location": "北海道",
+        "description": "ボーイズのママです",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 26,
+        "listed_count": 0,
+        "created_at": "Mon Jan 16 17:19:53 +0000 2017",
+        "favourites_count": 327,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 420,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1057522375682605058/I94ZK3du_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057522375682605058/I94ZK3du_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/821044313035403264/1484587842",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Sat Nov 10 22:01:05 +0000 2018",
+      "id": 1061378235697512400,
+      "id_str": "1061378235697512448",
+      "text": "おはようございます！Appleの最新情報でも確認しませんか？ https://t.co/yREwmwurqB #Apple #iPhoneXS #iPhoneXSMax #iPhoneXR #iPadPro #AppleEvent",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Apple",
+            "indices": [
+              55,
+              61
+            ]
+          },
+          {
+            "text": "iPhoneXS",
+            "indices": [
+              62,
+              71
+            ]
+          },
+          {
+            "text": "iPhoneXSMax",
+            "indices": [
+              72,
+              84
+            ]
+          },
+          {
+            "text": "iPhoneXR",
+            "indices": [
+              85,
+              94
+            ]
+          },
+          {
+            "text": "iPadPro",
+            "indices": [
+              95,
+              103
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              104,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yREwmwurqB",
+            "expanded_url": "https://inogabu.com",
+            "display_url": "inogabu.com",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2294389566,
+        "id_str": "2294389566",
+        "name": "inogabu.com（いのがぶ）",
+        "screen_name": "inogabu",
+        "location": "Japan",
+        "description": "巷で騒がれているAppleの最新情報を投稿している「いのがぶ」のサイト。iPhone, iPad, MacBook, 便利なガジェットまで、なんでも御座れ。",
+        "url": "https://t.co/7Y1k11Sl6n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Y1k11Sl6n",
+                "expanded_url": "https://inogabu.com",
+                "display_url": "inogabu.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 254,
+        "friends_count": 803,
+        "listed_count": 27,
+        "created_at": "Thu Jan 16 12:43:51 +0000 2014",
+        "favourites_count": 1639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10733,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294389566/1540457603",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Sat Nov 10 12:54:07 +0000 2018",
+      "id": 1061240585703501800,
+      "id_str": "1061240585703501824",
+      "text": "【#今日のApple】#17日目 #AppleEvent ブログもよろしく。https://t.co/vXBsWfMwV6 #ToDayApple #Day17 Plz read too my blog. https://t.co/G7mx4BAuiD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "今日のApple",
+            "indices": [
+              1,
+              10
+            ]
+          },
+          {
+            "text": "17日目",
+            "indices": [
+              11,
+              16
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              17,
+              28
+            ]
+          },
+          {
+            "text": "ToDayApple",
+            "indices": [
+              62,
+              73
+            ]
+          },
+          {
+            "text": "Day17",
+            "indices": [
+              74,
+              80
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vXBsWfMwV6",
+            "expanded_url": "https://inogabu.com/",
+            "display_url": "inogabu.com",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1061240579223240700,
+            "id_str": "1061240579223240704",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrpIryHUwAAVK2g.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrpIryHUwAAVK2g.jpg",
+            "url": "https://t.co/G7mx4BAuiD",
+            "display_url": "pic.twitter.com/G7mx4BAuiD",
+            "expanded_url": "https://twitter.com/inogabu/status/1061240585703501824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1061240579223240700,
+            "id_str": "1061240579223240704",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/DrpIryHUwAAVK2g.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DrpIryHUwAAVK2g.jpg",
+            "url": "https://t.co/G7mx4BAuiD",
+            "display_url": "pic.twitter.com/G7mx4BAuiD",
+            "expanded_url": "https://twitter.com/inogabu/status/1061240585703501824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2294389566,
+        "id_str": "2294389566",
+        "name": "inogabu.com（いのがぶ）",
+        "screen_name": "inogabu",
+        "location": "Japan",
+        "description": "巷で騒がれているAppleの最新情報を投稿している「いのがぶ」のサイト。iPhone, iPad, MacBook, 便利なガジェットまで、なんでも御座れ。",
+        "url": "https://t.co/7Y1k11Sl6n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Y1k11Sl6n",
+                "expanded_url": "https://inogabu.com",
+                "display_url": "inogabu.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 254,
+        "friends_count": 803,
+        "listed_count": 27,
+        "created_at": "Thu Jan 16 12:43:51 +0000 2014",
+        "favourites_count": 1639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10733,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294389566/1540457603",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Sat Nov 10 12:01:05 +0000 2018",
+      "id": 1061227242733240300,
+      "id_str": "1061227242733240320",
+      "text": "就寝の前にAppleの最新情報でも確認しませんか？ https://t.co/yREwmwurqB #Apple #iPhoneXS #iPhoneXSMax #iPhoneXR #iPadPro #AppleEvent",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Apple",
+            "indices": [
+              50,
+              56
+            ]
+          },
+          {
+            "text": "iPhoneXS",
+            "indices": [
+              57,
+              66
+            ]
+          },
+          {
+            "text": "iPhoneXSMax",
+            "indices": [
+              67,
+              79
+            ]
+          },
+          {
+            "text": "iPhoneXR",
+            "indices": [
+              80,
+              89
+            ]
+          },
+          {
+            "text": "iPadPro",
+            "indices": [
+              90,
+              98
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              99,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yREwmwurqB",
+            "expanded_url": "https://inogabu.com",
+            "display_url": "inogabu.com",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2294389566,
+        "id_str": "2294389566",
+        "name": "inogabu.com（いのがぶ）",
+        "screen_name": "inogabu",
+        "location": "Japan",
+        "description": "巷で騒がれているAppleの最新情報を投稿している「いのがぶ」のサイト。iPhone, iPad, MacBook, 便利なガジェットまで、なんでも御座れ。",
+        "url": "https://t.co/7Y1k11Sl6n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Y1k11Sl6n",
+                "expanded_url": "https://inogabu.com",
+                "display_url": "inogabu.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 254,
+        "friends_count": 803,
+        "listed_count": 27,
+        "created_at": "Thu Jan 16 12:43:51 +0000 2014",
+        "favourites_count": 1639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10733,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294389566/1540457603",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Sat Nov 10 02:08:24 +0000 2018",
+      "id": 1061078087163494400,
+      "id_str": "1061078087163494401",
+      "text": "#当店限定 #機種変更 \\n11月30日まで学割実施中！\\n店頭支払金を学生さん限定で #0円\\n対象機種は全機種！\\n詳しくはスタッフまでお問い合わせ下さい\\n#iPhoneXR #iPhoneXSMax #AppleEvent… https://t.co/wBnqm7pQmr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "当店限定",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "機種変更",
+            "indices": [
+              6,
+              11
+            ]
+          },
+          {
+            "text": "0円",
+            "indices": [
+              42,
+              45
+            ]
+          },
+          {
+            "text": "iPhoneXR",
+            "indices": [
+              76,
+              85
+            ]
+          },
+          {
+            "text": "iPhoneXSMax",
+            "indices": [
+              86,
+              98
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              99,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wBnqm7pQmr",
+            "expanded_url": "https://twitter.com/i/web/status/1061078087163494401",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1319923442,
+        "id_str": "1319923442",
+        "name": "auショップ白山",
+        "screen_name": "au_tora_no_mon",
+        "location": "東京都文京区白山1-33-21白山田沢ビル1F",
+        "description": "auショップ白山です！三田線白山駅A2番出口徒歩1分。営業時間:平日11:00〜20:00(一部受付19:30終了)電話番号03-5840-5120 定休日:第二水曜日",
+        "url": "https://t.co/HH84bkngXp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/HH84bkngXp",
+                "expanded_url": "http://aumypremiershop.jp/E002P7T/",
+                "display_url": "aumypremiershop.jp/E002P7T/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 962,
+        "friends_count": 365,
+        "listed_count": 44,
+        "created_at": "Mon Apr 01 08:33:26 +0000 2013",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5597,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/986757116508569605/KKiu3vMw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/986757116508569605/KKiu3vMw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319923442/1524096205",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 22:18:37 +0000 2018",
+      "id": 1061020258826358800,
+      "id_str": "1061020258826358784",
+      "text": "RT @inogabu: おはようございます！Appleの最新情報でも確認しませんか？ https://t.co/yREwmwurqB #Apple #iPhoneXS #iPhoneXSMax #iPhoneXR #iPadPro #AppleEvent",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Apple",
+            "indices": [
+              68,
+              74
+            ]
+          },
+          {
+            "text": "iPhoneXS",
+            "indices": [
+              75,
+              84
+            ]
+          },
+          {
+            "text": "iPhoneXSMax",
+            "indices": [
+              85,
+              97
+            ]
+          },
+          {
+            "text": "iPhoneXR",
+            "indices": [
+              98,
+              107
+            ]
+          },
+          {
+            "text": "iPadPro",
+            "indices": [
+              108,
+              116
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              117,
+              128
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "inogabu",
+            "name": "inogabu.com（いのがぶ）",
+            "id": 2294389566,
+            "id_str": "2294389566",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yREwmwurqB",
+            "expanded_url": "https://inogabu.com",
+            "display_url": "inogabu.com",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.botlibre.com\" rel=\"nofollow\">Bot Libre!</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 840641485880062000,
+        "id_str": "840641485880061956",
+        "name": "Daily Discount",
+        "screen_name": "Arihant02244582",
+        "location": "India",
+        "description": "For #amazonindia #discounts #onlineshopping #onlineshop #trending check our link",
+        "url": "https://t.co/aYOs6emGIP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/aYOs6emGIP",
+                "expanded_url": "http://dailydiscount.co.in/",
+                "display_url": "dailydiscount.co.in",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 377,
+        "friends_count": 97,
+        "listed_count": 15,
+        "created_at": "Sat Mar 11 19:12:03 +0000 2017",
+        "favourites_count": 8,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25256,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976337103729475585/OlH9TgY1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976337103729475585/OlH9TgY1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/840641485880061956/1521611935",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 09 22:01:06 +0000 2018",
+        "id": 1061015853380988900,
+        "id_str": "1061015853380988928",
+        "text": "おはようございます！Appleの最新情報でも確認しませんか？ https://t.co/yREwmwurqB #Apple #iPhoneXS #iPhoneXSMax #iPhoneXR #iPadPro #AppleEvent",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Apple",
+              "indices": [
+                55,
+                61
+              ]
+            },
+            {
+              "text": "iPhoneXS",
+              "indices": [
+                62,
+                71
+              ]
+            },
+            {
+              "text": "iPhoneXSMax",
+              "indices": [
+                72,
+                84
+              ]
+            },
+            {
+              "text": "iPhoneXR",
+              "indices": [
+                85,
+                94
+              ]
+            },
+            {
+              "text": "iPadPro",
+              "indices": [
+                95,
+                103
+              ]
+            },
+            {
+              "text": "AppleEvent",
+              "indices": [
+                104,
+                115
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/yREwmwurqB",
+              "expanded_url": "https://inogabu.com",
+              "display_url": "inogabu.com",
+              "indices": [
+                31,
+                54
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "ja",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2294389566,
+          "id_str": "2294389566",
+          "name": "inogabu.com（いのがぶ）",
+          "screen_name": "inogabu",
+          "location": "Japan",
+          "description": "巷で騒がれているAppleの最新情報を投稿している「いのがぶ」のサイト。iPhone, iPad, MacBook, 便利なガジェットまで、なんでも御座れ。",
+          "url": "https://t.co/7Y1k11Sl6n",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/7Y1k11Sl6n",
+                  "expanded_url": "https://inogabu.com",
+                  "display_url": "inogabu.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 254,
+          "friends_count": 803,
+          "listed_count": 27,
+          "created_at": "Thu Jan 16 12:43:51 +0000 2014",
+          "favourites_count": 1639,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 10733,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294389566/1540457603",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 22:01:06 +0000 2018",
+      "id": 1061015853380988900,
+      "id_str": "1061015853380988928",
+      "text": "おはようございます！Appleの最新情報でも確認しませんか？ https://t.co/yREwmwurqB #Apple #iPhoneXS #iPhoneXSMax #iPhoneXR #iPadPro #AppleEvent",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Apple",
+            "indices": [
+              55,
+              61
+            ]
+          },
+          {
+            "text": "iPhoneXS",
+            "indices": [
+              62,
+              71
+            ]
+          },
+          {
+            "text": "iPhoneXSMax",
+            "indices": [
+              72,
+              84
+            ]
+          },
+          {
+            "text": "iPhoneXR",
+            "indices": [
+              85,
+              94
+            ]
+          },
+          {
+            "text": "iPadPro",
+            "indices": [
+              95,
+              103
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              104,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yREwmwurqB",
+            "expanded_url": "https://inogabu.com",
+            "display_url": "inogabu.com",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2294389566,
+        "id_str": "2294389566",
+        "name": "inogabu.com（いのがぶ）",
+        "screen_name": "inogabu",
+        "location": "Japan",
+        "description": "巷で騒がれているAppleの最新情報を投稿している「いのがぶ」のサイト。iPhone, iPad, MacBook, 便利なガジェットまで、なんでも御座れ。",
+        "url": "https://t.co/7Y1k11Sl6n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Y1k11Sl6n",
+                "expanded_url": "https://inogabu.com",
+                "display_url": "inogabu.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 254,
+        "friends_count": 803,
+        "listed_count": 27,
+        "created_at": "Thu Jan 16 12:43:51 +0000 2014",
+        "favourites_count": 1639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10733,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294389566/1540457603",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 21:00:06 +0000 2018",
+      "id": 1061000502593245200,
+      "id_str": "1061000502593245185",
+      "text": "お誕生月会のお知らせ(^｡^)\\n１１月３０日18時から\\n恵比寿で\\n１１月誕生日の人のお祝いありますよ(^｡^)\\n\\nみんな\\nプレゼントを1っこ持って\\n集まってください。\\n\\n１１月誕生月の人も\\n待ってます(^｡^)… https://t.co/W444qdD99o",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/W444qdD99o",
+            "expanded_url": "https://twitter.com/i/web/status/1061000502593245185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1060549084463820800,
+        "id_str": "1060549084463820801",
+        "name": "お誕生月会で検索 毎月みんなでお祝いする部活ハナキン部",
+        "screen_name": "hanakinbu",
+        "location": "日本 東京",
+        "description": "部員と成長する本気で楽しむ部！ハナキン部の部活動は第4金曜にみんなで集まって「お誕生月会」をします。最初は初対面の人も1年後には、自分の誕生月の金曜に、部員から100個のプレゼントをもらう事が出来る素敵な部がハナキン部です。部の目標は東京ドーム7万人動員です。部員大募集中詳しくは公式LINE@で",
+        "url": "https://t.co/TbrmzejTzJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/TbrmzejTzJ",
+                "expanded_url": "https://line.me/R/ti/p/%40yzf0791b",
+                "display_url": "line.me/R/ti/p/%40yzf0…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1137,
+        "friends_count": 139,
+        "listed_count": 0,
+        "created_at": "Thu Nov 08 15:06:20 +0000 2018",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1060549264240046081/cn1FJDEb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060549264240046081/cn1FJDEb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060549084463820801/1541689633",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 12:14:39 +0000 2018",
+      "id": 1060868268288659500,
+      "id_str": "1060868268288659457",
+      "text": "【#今日のApple】#16日目 #AppleEvent ブログもよろしく。https://t.co/vXBsWfMwV6     #ToDayApple #Day16 Plz read too my blog. https://t.co/mCKk6FnxGU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "今日のApple",
+            "indices": [
+              1,
+              10
+            ]
+          },
+          {
+            "text": "16日目",
+            "indices": [
+              11,
+              16
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              17,
+              28
+            ]
+          },
+          {
+            "text": "ToDayApple",
+            "indices": [
+              66,
+              77
+            ]
+          },
+          {
+            "text": "Day16",
+            "indices": [
+              78,
+              84
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vXBsWfMwV6",
+            "expanded_url": "https://inogabu.com/",
+            "display_url": "inogabu.com",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1060868258792788000,
+            "id_str": "1060868258792787968",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/Drj2D4bU0AAqpNR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Drj2D4bU0AAqpNR.jpg",
+            "url": "https://t.co/mCKk6FnxGU",
+            "display_url": "pic.twitter.com/mCKk6FnxGU",
+            "expanded_url": "https://twitter.com/inogabu/status/1060868268288659457/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1060868258792788000,
+            "id_str": "1060868258792787968",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/Drj2D4bU0AAqpNR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Drj2D4bU0AAqpNR.jpg",
+            "url": "https://t.co/mCKk6FnxGU",
+            "display_url": "pic.twitter.com/mCKk6FnxGU",
+            "expanded_url": "https://twitter.com/inogabu/status/1060868268288659457/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2294389566,
+        "id_str": "2294389566",
+        "name": "inogabu.com（いのがぶ）",
+        "screen_name": "inogabu",
+        "location": "Japan",
+        "description": "巷で騒がれているAppleの最新情報を投稿している「いのがぶ」のサイト。iPhone, iPad, MacBook, 便利なガジェットまで、なんでも御座れ。",
+        "url": "https://t.co/7Y1k11Sl6n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Y1k11Sl6n",
+                "expanded_url": "https://inogabu.com",
+                "display_url": "inogabu.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 254,
+        "friends_count": 803,
+        "listed_count": 27,
+        "created_at": "Thu Jan 16 12:43:51 +0000 2014",
+        "favourites_count": 1639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10733,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294389566/1540457603",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 12:01:54 +0000 2018",
+      "id": 1060865056794075100,
+      "id_str": "1060865056794075136",
+      "text": "新しいiPad Proの平たい側面に、僕はまた恋をした── #AppleEvent https://t.co/65jVpgTfZh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AppleEvent",
+            "indices": [
+              30,
+              41
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/65jVpgTfZh",
+            "expanded_url": "https://www.gizmodo.jp/2018/10/ipadpro2018_love.html",
+            "display_url": "gizmodo.jp/2018/10/ipadpr…",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1011626617150423000,
+        "id_str": "1011626617150423040",
+        "name": "ヒイロ",
+        "screen_name": "xigL3jRpoK562A7",
+        "location": "",
+        "description": "林檎製品大好きとか言いながらソニー製品使うマン\\n結構多趣味。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 19,
+        "friends_count": 35,
+        "listed_count": 0,
+        "created_at": "Tue Jun 26 15:05:55 +0000 2018",
+        "favourites_count": 10680,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 868,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 12:01:08 +0000 2018",
+      "id": 1060864863751139300,
+      "id_str": "1060864863751139330",
+      "text": "就寝の前にAppleの最新情報でも確認しませんか？ https://t.co/yREwmwurqB #Apple #iPhoneXS #iPhoneXSMax #iPhoneXR #iPadPro #AppleEvent",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Apple",
+            "indices": [
+              50,
+              56
+            ]
+          },
+          {
+            "text": "iPhoneXS",
+            "indices": [
+              57,
+              66
+            ]
+          },
+          {
+            "text": "iPhoneXSMax",
+            "indices": [
+              67,
+              79
+            ]
+          },
+          {
+            "text": "iPhoneXR",
+            "indices": [
+              80,
+              89
+            ]
+          },
+          {
+            "text": "iPadPro",
+            "indices": [
+              90,
+              98
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              99,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yREwmwurqB",
+            "expanded_url": "https://inogabu.com",
+            "display_url": "inogabu.com",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2294389566,
+        "id_str": "2294389566",
+        "name": "inogabu.com（いのがぶ）",
+        "screen_name": "inogabu",
+        "location": "Japan",
+        "description": "巷で騒がれているAppleの最新情報を投稿している「いのがぶ」のサイト。iPhone, iPad, MacBook, 便利なガジェットまで、なんでも御座れ。",
+        "url": "https://t.co/7Y1k11Sl6n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Y1k11Sl6n",
+                "expanded_url": "https://inogabu.com",
+                "display_url": "inogabu.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 254,
+        "friends_count": 803,
+        "listed_count": 27,
+        "created_at": "Thu Jan 16 12:43:51 +0000 2014",
+        "favourites_count": 1639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10733,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294389566/1540457603",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 10:05:09 +0000 2018",
+      "id": 1060835678756331500,
+      "id_str": "1060835678756331520",
+      "text": "#当店限定 #機種変更 \\n11月30日まで学割実施中！\\n店頭支払金を学生さん限定で #0円\\n対象機種は全機種！\\n詳しくはスタッフまでお問い合わせ下さい\\n#iPhoneXR #iPhoneXSMax #AppleEvent… https://t.co/hUKB6Bdyhj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "当店限定",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "機種変更",
+            "indices": [
+              6,
+              11
+            ]
+          },
+          {
+            "text": "0円",
+            "indices": [
+              42,
+              45
+            ]
+          },
+          {
+            "text": "iPhoneXR",
+            "indices": [
+              76,
+              85
+            ]
+          },
+          {
+            "text": "iPhoneXSMax",
+            "indices": [
+              86,
+              98
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              99,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hUKB6Bdyhj",
+            "expanded_url": "https://twitter.com/i/web/status/1060835678756331520",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1319923442,
+        "id_str": "1319923442",
+        "name": "auショップ白山",
+        "screen_name": "au_tora_no_mon",
+        "location": "東京都文京区白山1-33-21白山田沢ビル1F",
+        "description": "auショップ白山です！三田線白山駅A2番出口徒歩1分。営業時間:平日11:00〜20:00(一部受付19:30終了)電話番号03-5840-5120 定休日:第二水曜日",
+        "url": "https://t.co/HH84bkngXp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/HH84bkngXp",
+                "expanded_url": "http://aumypremiershop.jp/E002P7T/",
+                "display_url": "aumypremiershop.jp/E002P7T/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 962,
+        "friends_count": 365,
+        "listed_count": 44,
+        "created_at": "Mon Apr 01 08:33:26 +0000 2013",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5597,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/986757116508569605/KKiu3vMw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/986757116508569605/KKiu3vMw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319923442/1524096205",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 10:04:38 +0000 2018",
+      "id": 1060835545339686900,
+      "id_str": "1060835545339686913",
+      "text": "RT @Apple: @cw_owner これが、新しくなったiPad Pro。 #AppleEvent",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AppleEvent",
+            "indices": [
+              41,
+              52
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Apple",
+            "name": "Apple",
+            "id": 380749300,
+            "id_str": "380749300",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "cw_owner",
+            "name": "cたゃ",
+            "id": 994077779779113000,
+            "id_str": "994077779779112961",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 994077779779113000,
+        "id_str": "994077779779112961",
+        "name": "cたゃ",
+        "screen_name": "cw_owner",
+        "location": "チャド",
+        "description": "移転しました 本垢",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 173,
+        "friends_count": 54,
+        "listed_count": 0,
+        "created_at": "Wed May 09 04:53:06 +0000 2018",
+        "favourites_count": 1196,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1780,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994131963597406213/fdbOI20K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994131963597406213/fdbOI20K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/994077779779112961/1528803375",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 30 17:11:30 +0000 2018",
+        "id": 1057319091227238400,
+        "id_str": "1057319091227238401",
+        "text": "@cw_owner これが、新しくなったiPad Pro。 #AppleEvent",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "AppleEvent",
+              "indices": [
+                30,
+                41
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cw_owner",
+              "name": "cたゃ",
+              "id": 994077779779113000,
+              "id_str": "994077779779112961",
+              "indices": [
+                0,
+                9
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "ja",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.icgroupinc.com\" rel=\"nofollow\">QWVR</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 994077779779113000,
+        "in_reply_to_user_id_str": "994077779779112961",
+        "in_reply_to_screen_name": "cw_owner",
+        "user": {
+          "id": 380749300,
+          "id_str": "380749300",
+          "name": "Apple",
+          "screen_name": "Apple",
+          "location": "Cupertino, CA",
+          "description": "https://t.co/jw2s2L0RLt",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/jw2s2L0RLt",
+                  "expanded_url": "http://Apple.com",
+                  "display_url": "Apple.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2417422,
+          "friends_count": 0,
+          "listed_count": 7494,
+          "created_at": "Tue Sep 27 05:02:03 +0000 2011",
+          "favourites_count": 0,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 0,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/856508346190381057/DaVvCgBo_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/856508346190381057/DaVvCgBo_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/380749300/1540912316",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "scopes": {
+          "followers": false
+        },
+        "lang": "ja"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 07:29:50 +0000 2018",
+      "id": 1060796588975484900,
+      "id_str": "1060796588975484928",
+      "text": "RT @Tourmaline_JP: 始まった！！\\n#AppleEvent https://t.co/mP04A6rmQq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AppleEvent",
+            "indices": [
+              26,
+              37
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Tourmaline_JP",
+            "name": "Tourmaline🍊✨",
+            "id": 842379067877875700,
+            "id_str": "842379067877875712",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1057271765016035300,
+            "id_str": "1057271765016035329",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqwvEZDUwAEmX3O.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqwvEZDUwAEmX3O.jpg",
+            "url": "https://t.co/mP04A6rmQq",
+            "display_url": "pic.twitter.com/mP04A6rmQq",
+            "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1057271772242882600,
+            "source_status_id_str": "1057271772242882561",
+            "source_user_id": 842379067877875700,
+            "source_user_id_str": "842379067877875712"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057271765016035300,
+            "id_str": "1057271765016035329",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqwvEZDUwAEmX3O.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqwvEZDUwAEmX3O.jpg",
+            "url": "https://t.co/mP04A6rmQq",
+            "display_url": "pic.twitter.com/mP04A6rmQq",
+            "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1057271772242882600,
+            "source_status_id_str": "1057271772242882561",
+            "source_user_id": 842379067877875700,
+            "source_user_id_str": "842379067877875712"
+          },
+          {
+            "id": 1057271764999258100,
+            "id_str": "1057271764999258112",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqwvEY_UwAA0PDl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqwvEY_UwAA0PDl.jpg",
+            "url": "https://t.co/mP04A6rmQq",
+            "display_url": "pic.twitter.com/mP04A6rmQq",
+            "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1057271772242882600,
+            "source_status_id_str": "1057271772242882561",
+            "source_user_id": 842379067877875700,
+            "source_user_id_str": "842379067877875712"
+          },
+          {
+            "id": 1057271764999229400,
+            "id_str": "1057271764999229440",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqwvEY_UUAAlrT6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqwvEY_UUAAlrT6.jpg",
+            "url": "https://t.co/mP04A6rmQq",
+            "display_url": "pic.twitter.com/mP04A6rmQq",
+            "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1057271772242882600,
+            "source_status_id_str": "1057271772242882561",
+            "source_user_id": 842379067877875700,
+            "source_user_id_str": "842379067877875712"
+          },
+          {
+            "id": 1057271764995137500,
+            "id_str": "1057271764995137536",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqwvEY-V4AAhi4j.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqwvEY-V4AAhi4j.jpg",
+            "url": "https://t.co/mP04A6rmQq",
+            "display_url": "pic.twitter.com/mP04A6rmQq",
+            "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1057271772242882600,
+            "source_status_id_str": "1057271772242882561",
+            "source_user_id": 842379067877875700,
+            "source_user_id_str": "842379067877875712"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 712524557492596700,
+        "id_str": "712524557492596737",
+        "name": "しろうさぎ",
+        "screen_name": "megumin1358",
+        "location": "日本",
+        "description": "熟していないものを見るのはおつですな～",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 100,
+        "listed_count": 0,
+        "created_at": "Wed Mar 23 06:21:07 +0000 2016",
+        "favourites_count": 68,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/796636539606343680/PXBvp4Js_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/796636539606343680/PXBvp4Js_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/712524557492596737/1478767906",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 30 14:03:28 +0000 2018",
+        "id": 1057271772242882600,
+        "id_str": "1057271772242882561",
+        "text": "始まった！！\\n#AppleEvent https://t.co/mP04A6rmQq",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "AppleEvent",
+              "indices": [
+                7,
+                18
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1057271765016035300,
+              "id_str": "1057271765016035329",
+              "indices": [
+                19,
+                42
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqwvEZDUwAEmX3O.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqwvEZDUwAEmX3O.jpg",
+              "url": "https://t.co/mP04A6rmQq",
+              "display_url": "pic.twitter.com/mP04A6rmQq",
+              "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1057271765016035300,
+              "id_str": "1057271765016035329",
+              "indices": [
+                19,
+                42
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqwvEZDUwAEmX3O.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqwvEZDUwAEmX3O.jpg",
+              "url": "https://t.co/mP04A6rmQq",
+              "display_url": "pic.twitter.com/mP04A6rmQq",
+              "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1057271764999258100,
+              "id_str": "1057271764999258112",
+              "indices": [
+                19,
+                42
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqwvEY_UwAA0PDl.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqwvEY_UwAA0PDl.jpg",
+              "url": "https://t.co/mP04A6rmQq",
+              "display_url": "pic.twitter.com/mP04A6rmQq",
+              "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1057271764999229400,
+              "id_str": "1057271764999229440",
+              "indices": [
+                19,
+                42
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqwvEY_UUAAlrT6.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqwvEY_UUAAlrT6.jpg",
+              "url": "https://t.co/mP04A6rmQq",
+              "display_url": "pic.twitter.com/mP04A6rmQq",
+              "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1057271764995137500,
+              "id_str": "1057271764995137536",
+              "indices": [
+                19,
+                42
+              ],
+              "media_url": "http://pbs.twimg.com/media/DqwvEY-V4AAhi4j.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DqwvEY-V4AAhi4j.jpg",
+              "url": "https://t.co/mP04A6rmQq",
+              "display_url": "pic.twitter.com/mP04A6rmQq",
+              "expanded_url": "https://twitter.com/Tourmaline_JP/status/1057271772242882561/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "ja",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 842379067877875700,
+          "id_str": "842379067877875712",
+          "name": "Tourmaline🍊✨",
+          "screen_name": "Tourmaline_JP",
+          "location": "Twitter®︎",
+          "description": "PC、ゲームとかガジェット集め等、多趣味だったり…学生🐟  厳選→ @toru_maline",
+          "url": "https://t.co/8qb2uAvG9n",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/8qb2uAvG9n",
+                  "expanded_url": "http://twitcasting.tv/tourmaline_jp",
+                  "display_url": "twitcasting.tv/tourmaline_jp",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 5844,
+          "friends_count": 5397,
+          "listed_count": 59,
+          "created_at": "Thu Mar 16 14:16:35 +0000 2017",
+          "favourites_count": 144534,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2079,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1050800452604841984/Vzrdd_KK_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050800452604841984/Vzrdd_KK_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/842379067877875712/1540704109",
+          "profile_link_color": "99CC00",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 03:18:52 +0000 2018",
+      "id": 1060733432622342100,
+      "id_str": "1060733432622342144",
+      "text": "RT @TK_u_nya: Apple Pencil のここらへんに文字を刻印できると言われたら、これしか思い浮かばなかった\\n#AppleEvent https://t.co/gzeQk1T7Tl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AppleEvent",
+            "indices": [
+              63,
+              74
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TK_u_nya",
+            "name": "cokaholic@AbemaTV",
+            "id": 598818874,
+            "id_str": "598818874",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1057324387282513900,
+            "id_str": "1057324387282513920",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+            "url": "https://t.co/gzeQk1T7Tl",
+            "display_url": "pic.twitter.com/gzeQk1T7Tl",
+            "expanded_url": "https://twitter.com/TK_u_nya/status/1057324392005292032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 495,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 546,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 546,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1057324392005292000,
+            "source_status_id_str": "1057324392005292032",
+            "source_user_id": 598818874,
+            "source_user_id_str": "598818874"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057324387282513900,
+            "id_str": "1057324387282513920",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+            "url": "https://t.co/gzeQk1T7Tl",
+            "display_url": "pic.twitter.com/gzeQk1T7Tl",
+            "expanded_url": "https://twitter.com/TK_u_nya/status/1057324392005292032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 495,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 546,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 546,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1057324392005292000,
+            "source_status_id_str": "1057324392005292032",
+            "source_user_id": 598818874,
+            "source_user_id_str": "598818874"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 430782083,
+        "id_str": "430782083",
+        "name": "いんふぃにっと",
+        "screen_name": "infinit_ao",
+        "location": "カレーハウス",
+        "description": "CGで食べる見習い。TA目指して勉強中。最近はUnrealに興味があります。ラブライブおじさん。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 72,
+        "friends_count": 280,
+        "listed_count": 3,
+        "created_at": "Wed Dec 07 15:22:37 +0000 2011",
+        "favourites_count": 7781,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5525,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1052321120672612353/ksc--Q5q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052321120672612353/ksc--Q5q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/430782083/1539728341",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 30 17:32:33 +0000 2018",
+        "id": 1057324392005292000,
+        "id_str": "1057324392005292032",
+        "text": "Apple Pencil のここらへんに文字を刻印できると言われたら、これしか思い浮かばなかった\\n#AppleEvent https://t.co/gzeQk1T7Tl",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "AppleEvent",
+              "indices": [
+                49,
+                60
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1057324387282513900,
+              "id_str": "1057324387282513920",
+              "indices": [
+                61,
+                84
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+              "url": "https://t.co/gzeQk1T7Tl",
+              "display_url": "pic.twitter.com/gzeQk1T7Tl",
+              "expanded_url": "https://twitter.com/TK_u_nya/status/1057324392005292032/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 495,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 546,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 750,
+                  "h": 546,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1057324387282513900,
+              "id_str": "1057324387282513920",
+              "indices": [
+                61,
+                84
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+              "url": "https://t.co/gzeQk1T7Tl",
+              "display_url": "pic.twitter.com/gzeQk1T7Tl",
+              "expanded_url": "https://twitter.com/TK_u_nya/status/1057324392005292032/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 495,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 546,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 750,
+                  "h": 546,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "ja",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 598818874,
+          "id_str": "598818874",
+          "name": "cokaholic@AbemaTV",
+          "screen_name": "TK_u_nya",
+          "location": "しぶやちほー",
+          "description": "Animation is the salt of my life. iOS Application Engineer at AbemaTV Co., Ltd. CyberAgent, Inc.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 193,
+          "friends_count": 344,
+          "listed_count": 4,
+          "created_at": "Mon Jun 04 01:22:50 +0000 2012",
+          "favourites_count": 1015,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2170,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/854163116141060096/qs7gSNrc_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/854163116141060096/qs7gSNrc_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/598818874/1518864260",
+          "profile_link_color": "6FB900",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 189,
+        "favorite_count": 242,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+      },
+      "is_quote_status": false,
+      "retweet_count": 189,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 03:07:26 +0000 2018",
+      "id": 1060730555115876400,
+      "id_str": "1060730555115876353",
+      "text": "RT @TK_u_nya: Apple Pencil のここらへんに文字を刻印できると言われたら、これしか思い浮かばなかった\\n#AppleEvent https://t.co/gzeQk1T7Tl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AppleEvent",
+            "indices": [
+              63,
+              74
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TK_u_nya",
+            "name": "cokaholic@AbemaTV",
+            "id": 598818874,
+            "id_str": "598818874",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1057324387282513900,
+            "id_str": "1057324387282513920",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+            "url": "https://t.co/gzeQk1T7Tl",
+            "display_url": "pic.twitter.com/gzeQk1T7Tl",
+            "expanded_url": "https://twitter.com/TK_u_nya/status/1057324392005292032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 495,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 546,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 546,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1057324392005292000,
+            "source_status_id_str": "1057324392005292032",
+            "source_user_id": 598818874,
+            "source_user_id_str": "598818874"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1057324387282513900,
+            "id_str": "1057324387282513920",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+            "url": "https://t.co/gzeQk1T7Tl",
+            "display_url": "pic.twitter.com/gzeQk1T7Tl",
+            "expanded_url": "https://twitter.com/TK_u_nya/status/1057324392005292032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 495,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 546,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 546,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1057324392005292000,
+            "source_status_id_str": "1057324392005292032",
+            "source_user_id": 598818874,
+            "source_user_id_str": "598818874"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 582177493,
+        "id_str": "582177493",
+        "name": "スギ",
+        "screen_name": "agisuri",
+        "location": "",
+        "description": "BLの話をよくする雑食の創作企画の民//うちの子よその子創作メモたまに版権",
+        "url": "https://t.co/SXoxTMFvle",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/SXoxTMFvle",
+                "expanded_url": "http://www.pixiv.net/member.php?id=331702",
+                "display_url": "pixiv.net/member.php?id=…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 19,
+        "friends_count": 23,
+        "listed_count": 1,
+        "created_at": "Wed May 16 21:19:21 +0000 2012",
+        "favourites_count": 4590,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10071,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966556273733849088/GEKnD52p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966556273733849088/GEKnD52p_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/582177493/1519203129",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 30 17:32:33 +0000 2018",
+        "id": 1057324392005292000,
+        "id_str": "1057324392005292032",
+        "text": "Apple Pencil のここらへんに文字を刻印できると言われたら、これしか思い浮かばなかった\\n#AppleEvent https://t.co/gzeQk1T7Tl",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "AppleEvent",
+              "indices": [
+                49,
+                60
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1057324387282513900,
+              "id_str": "1057324387282513920",
+              "indices": [
+                61,
+                84
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+              "url": "https://t.co/gzeQk1T7Tl",
+              "display_url": "pic.twitter.com/gzeQk1T7Tl",
+              "expanded_url": "https://twitter.com/TK_u_nya/status/1057324392005292032/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 495,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 546,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 750,
+                  "h": 546,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1057324387282513900,
+              "id_str": "1057324387282513920",
+              "indices": [
+                61,
+                84
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dqxe7aRU8AA3SLG.jpg",
+              "url": "https://t.co/gzeQk1T7Tl",
+              "display_url": "pic.twitter.com/gzeQk1T7Tl",
+              "expanded_url": "https://twitter.com/TK_u_nya/status/1057324392005292032/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 495,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 750,
+                  "h": 546,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 750,
+                  "h": 546,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "ja",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 598818874,
+          "id_str": "598818874",
+          "name": "cokaholic@AbemaTV",
+          "screen_name": "TK_u_nya",
+          "location": "しぶやちほー",
+          "description": "Animation is the salt of my life. iOS Application Engineer at AbemaTV Co., Ltd. CyberAgent, Inc.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 193,
+          "friends_count": 344,
+          "listed_count": 4,
+          "created_at": "Mon Jun 04 01:22:50 +0000 2012",
+          "favourites_count": 1015,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2170,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/854163116141060096/qs7gSNrc_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/854163116141060096/qs7gSNrc_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/598818874/1518864260",
+          "profile_link_color": "6FB900",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 189,
+        "favorite_count": 242,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+      },
+      "is_quote_status": false,
+      "retweet_count": 189,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Fri Nov 09 01:52:58 +0000 2018",
+      "id": 1060711813749174300,
+      "id_str": "1060711813749174272",
+      "text": "#当店限定 \\n11月30日まで学割実施中！\\n店頭支払金を学生さん限定で #0円\\n対象機種は全機種！\\n詳しくはスタッフまでお問い合わせ下さい\\n#iPhoneXR #iPhoneXSMax #AppleEvent #Xperia… https://t.co/fQv3W6iDeu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "当店限定",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "0円",
+            "indices": [
+              36,
+              39
+            ]
+          },
+          {
+            "text": "iPhoneXR",
+            "indices": [
+              70,
+              79
+            ]
+          },
+          {
+            "text": "iPhoneXSMax",
+            "indices": [
+              80,
+              92
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              93,
+              104
+            ]
+          },
+          {
+            "text": "Xperia",
+            "indices": [
+              105,
+              112
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fQv3W6iDeu",
+            "expanded_url": "https://twitter.com/i/web/status/1060711813749174272",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1319923442,
+        "id_str": "1319923442",
+        "name": "auショップ白山",
+        "screen_name": "au_tora_no_mon",
+        "location": "東京都文京区白山1-33-21白山田沢ビル1F",
+        "description": "auショップ白山です！三田線白山駅A2番出口徒歩1分。営業時間:平日11:00〜20:00(一部受付19:30終了)電話番号03-5840-5120 定休日:第二水曜日",
+        "url": "https://t.co/HH84bkngXp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/HH84bkngXp",
+                "expanded_url": "http://aumypremiershop.jp/E002P7T/",
+                "display_url": "aumypremiershop.jp/E002P7T/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 962,
+        "friends_count": 365,
+        "listed_count": 44,
+        "created_at": "Mon Apr 01 08:33:26 +0000 2013",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5597,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/986757116508569605/KKiu3vMw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/986757116508569605/KKiu3vMw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319923442/1524096205",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Thu Nov 08 22:01:12 +0000 2018",
+      "id": 1060653489397805000,
+      "id_str": "1060653489397805056",
+      "text": "おはようございます！Appleの最新情報でも確認しませんか？ https://t.co/yREwmwurqB #Apple #iPhoneXS #iPhoneXSMax #iPhoneXR #iPadPro #AppleEvent",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Apple",
+            "indices": [
+              55,
+              61
+            ]
+          },
+          {
+            "text": "iPhoneXS",
+            "indices": [
+              62,
+              71
+            ]
+          },
+          {
+            "text": "iPhoneXSMax",
+            "indices": [
+              72,
+              84
+            ]
+          },
+          {
+            "text": "iPhoneXR",
+            "indices": [
+              85,
+              94
+            ]
+          },
+          {
+            "text": "iPadPro",
+            "indices": [
+              95,
+              103
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              104,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yREwmwurqB",
+            "expanded_url": "https://inogabu.com",
+            "display_url": "inogabu.com",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2294389566,
+        "id_str": "2294389566",
+        "name": "inogabu.com（いのがぶ）",
+        "screen_name": "inogabu",
+        "location": "Japan",
+        "description": "巷で騒がれているAppleの最新情報を投稿している「いのがぶ」のサイト。iPhone, iPad, MacBook, 便利なガジェットまで、なんでも御座れ。",
+        "url": "https://t.co/7Y1k11Sl6n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Y1k11Sl6n",
+                "expanded_url": "https://inogabu.com",
+                "display_url": "inogabu.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 254,
+        "friends_count": 803,
+        "listed_count": 27,
+        "created_at": "Thu Jan 16 12:43:51 +0000 2014",
+        "favourites_count": 1639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10733,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294389566/1540457603",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Thu Nov 08 13:58:15 +0000 2018",
+      "id": 1060531949985386500,
+      "id_str": "1060531949985386498",
+      "text": "本日も無事にプレミア公開終えました〜！\\niPad Pro 2018（12 9インチ）＋Apple Pencil 2 開封レビュー【VLOG #31】🎥👉https://t.co/T0vkODJP7S\\n\\n今回も長めの動画なのでラジオ… https://t.co/aRpu2XS4nV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T0vkODJP7S",
+            "expanded_url": "https://youtu.be/iXekqB_fz3E",
+            "display_url": "youtu.be/iXekqB_fz3E",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "url": "https://t.co/aRpu2XS4nV",
+            "expanded_url": "https://twitter.com/i/web/status/1060531949985386498",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 814028959151075300,
+        "id_str": "814028959151075328",
+        "name": "KAKO",
+        "screen_name": "ypay7",
+        "location": "Kyoto Japan",
+        "description": "YouTubeに動画を投稿しています！",
+        "url": "https://t.co/x5liukz5l9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/x5liukz5l9",
+                "expanded_url": "https://www.youtube.com/c/KAKOca-cola",
+                "display_url": "youtube.com/c/KAKOca-cola",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 123,
+        "friends_count": 139,
+        "listed_count": 2,
+        "created_at": "Wed Dec 28 08:43:22 +0000 2016",
+        "favourites_count": 62,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1062,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/814056612209958912/r0wmCAA__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/814056612209958912/r0wmCAA__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814028959151075328/1483350215",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Thu Nov 08 13:36:38 +0000 2018",
+      "id": 1060526508874166300,
+      "id_str": "1060526508874166272",
+      "text": "RT @Apple: @CorocomCafe1515 これが、新しくなったiPad Pro。 #AppleEvent",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AppleEvent",
+            "indices": [
+              48,
+              59
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Apple",
+            "name": "Apple",
+            "id": 380749300,
+            "id_str": "380749300",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "screen_name": "CorocomCafe1515",
+            "name": "Cafe1515",
+            "id": 932049212782534700,
+            "id_str": "932049212782534657",
+            "indices": [
+              11,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 932049212782534700,
+        "id_str": "932049212782534657",
+        "name": "Cafe1515",
+        "screen_name": "CorocomCafe1515",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 30,
+        "listed_count": 0,
+        "created_at": "Sun Nov 19 00:53:43 +0000 2017",
+        "favourites_count": 1313,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1058,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 30 17:11:38 +0000 2018",
+        "id": 1057319127382192100,
+        "id_str": "1057319127382192129",
+        "text": "@CorocomCafe1515 これが、新しくなったiPad Pro。 #AppleEvent",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "AppleEvent",
+              "indices": [
+                37,
+                48
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CorocomCafe1515",
+              "name": "Cafe1515",
+              "id": 932049212782534700,
+              "id_str": "932049212782534657",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "ja",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.icgroupinc.com\" rel=\"nofollow\">QWVR</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 932049212782534700,
+        "in_reply_to_user_id_str": "932049212782534657",
+        "in_reply_to_screen_name": "CorocomCafe1515",
+        "user": {
+          "id": 380749300,
+          "id_str": "380749300",
+          "name": "Apple",
+          "screen_name": "Apple",
+          "location": "Cupertino, CA",
+          "description": "https://t.co/jw2s2L0RLt",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/jw2s2L0RLt",
+                  "expanded_url": "http://Apple.com",
+                  "display_url": "Apple.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2417422,
+          "friends_count": 0,
+          "listed_count": 7494,
+          "created_at": "Tue Sep 27 05:02:03 +0000 2011",
+          "favourites_count": 0,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 0,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/856508346190381057/DaVvCgBo_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/856508346190381057/DaVvCgBo_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/380749300/1540912316",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "scopes": {
+          "followers": false
+        },
+        "lang": "ja"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Thu Nov 08 13:28:50 +0000 2018",
+      "id": 1060524549756739600,
+      "id_str": "1060524549756739584",
+      "text": "【#今日のApple】#15日目 #AppleEvent ブログもよろしく。https://t.co/vXBsWfMwV6    #ToDayApple #Day15 Plz read too my blog. https://t.co/7x07Y6tJN9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "今日のApple",
+            "indices": [
+              1,
+              10
+            ]
+          },
+          {
+            "text": "15日目",
+            "indices": [
+              11,
+              16
+            ]
+          },
+          {
+            "text": "AppleEvent",
+            "indices": [
+              17,
+              28
+            ]
+          },
+          {
+            "text": "ToDayApple",
+            "indices": [
+              65,
+              76
+            ]
+          },
+          {
+            "text": "Day15",
+            "indices": [
+              77,
+              83
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vXBsWfMwV6",
+            "expanded_url": "https://inogabu.com/",
+            "display_url": "inogabu.com",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1060524543448506400,
+            "id_str": "1060524543448506369",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dre9dA_U4AEL-_W.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dre9dA_U4AEL-_W.jpg",
+            "url": "https://t.co/7x07Y6tJN9",
+            "display_url": "pic.twitter.com/7x07Y6tJN9",
+            "expanded_url": "https://twitter.com/inogabu/status/1060524549756739584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1060524543448506400,
+            "id_str": "1060524543448506369",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dre9dA_U4AEL-_W.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dre9dA_U4AEL-_W.jpg",
+            "url": "https://t.co/7x07Y6tJN9",
+            "display_url": "pic.twitter.com/7x07Y6tJN9",
+            "expanded_url": "https://twitter.com/inogabu/status/1060524549756739584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 160,
+                "h": 160,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2294389566,
+        "id_str": "2294389566",
+        "name": "inogabu.com（いのがぶ）",
+        "screen_name": "inogabu",
+        "location": "Japan",
+        "description": "巷で騒がれているAppleの最新情報を投稿している「いのがぶ」のサイト。iPhone, iPad, MacBook, 便利なガジェットまで、なんでも御座れ。",
+        "url": "https://t.co/7Y1k11Sl6n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Y1k11Sl6n",
+                "expanded_url": "https://inogabu.com",
+                "display_url": "inogabu.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 254,
+        "friends_count": 803,
+        "listed_count": 27,
+        "created_at": "Thu Jan 16 12:43:51 +0000 2014",
+        "favourites_count": 1639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10733,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061240626136592386/P7zIvI7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294389566/1540457603",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.048,
+    "max_id": 1061529713124888600,
+    "max_id_str": "1061529713124888576",
+    "next_results": "?max_id=1060524549756739583&q=%23AppleEvent&lang=ja&count=30&include_entities=1&result_type=mixed",
+    "query": "%23AppleEvent",
+    "refresh_url": "?since_id=1061529713124888576&q=%23AppleEvent&lang=ja&result_type=mixed&include_entities=1",
+    "count": 30,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
